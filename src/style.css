@@ -84,18 +84,19 @@ a {
 }
 
 .weather-forecast {
-  margin: 30px auto;
+  margin: 15px auto 10px;
   text-align: center;
   color: #000;
 }
 
 .weather-forecast-date {
-  font-size: 16px;
-  opacity: 0.6;
+  font-size: 17px;
+  opacity: 0.9;
 }
 
 .weather-forecast-temp {
   font-size: 13px;
+  font-weight: 150;
 }
 
 .weather-forecast-temp-min {
@@ -103,5 +104,6 @@ a {
 }
 
 .mb-3 {
-  padding: 30px;
+  margin: 20px auto;
+  padding-bottom: 15px;
 }
